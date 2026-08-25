@@ -4,7 +4,7 @@ A data analysis project using RFM (Recency, Frequency, Monetary) analysis
 to segment customers by value, plus a simple sales forecasting model — 
 built on a real-world retail transactions dataset.
 
-## Overview
+## Overview 
 
 Using the Online Retail Dataset (UCI) — 390K+ real transactions from an 
 online retailer — this project answers a core business question: which 
