@@ -44,4 +44,6 @@ Python | Pandas | NumPy | Matplotlib | Scikit-learn | Jupyter Notebook
 Recent Computer Science graduate with a strong interest in Sales Data 
 Analytics. Currently seeking a Data Analyst role.
 
-Connect with me on LinkedIn: [رابط بروفايلك هنا]
+Connect with me on LinkedIn: [www.linkedin.com/in/ahmed-hassan-3a93761b5
+
+]
